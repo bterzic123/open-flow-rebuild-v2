@@ -1,0 +1,19 @@
+{
+  "flows": [
+    { "channel": "Meta", "headline": "Experience a regulated nervous system.", "paywall_opens_on": "Start Nervous System Reset for free", "note": "“Regulate my nervous system” arrives picked from the ad, 10 minutes each evening" },
+    { "channel": "Meta", "headline": "Make space for what you feel.", "paywall_opens_on": "Start your 7-day grief program for free", "note": "“Work through grief” arrives picked from the ad, 10 minutes before bed" },
+    { "channel": "Meta", "headline": "A 7-day program for heartbreak.", "paywall_opens_on": "Start Heart & Heartbreak for free", "note": "“Heal a heartbreak” arrives picked from the ad, 15 minutes each morning" }
+  ],
+  "prices": { "yearly": "$149.99", "monthly": "$19.99", "trial": "14 days", "source": "Open's in-app paywall (US storefront)" },
+  "today": { "text": "every install fills in the account form and two permission screens, then meets the same “Try Open for free” paywall", "source": "audit_frames" },
+  "asks": ["What would you like help with?", "How much time do you have each day?", "When do you like to practice?"],
+  "paywall": { "headline": "Start Nervous System Reset for free", "uses_answers": true },
+  "rebuild": "the program each ad promises is picked from the start, read back on the loader, laid out as “Your first week” and named in the paywall headline",
+  "ideas": [
+    { "n": 1, "title": "Let them in before you ask for an account", "screen": "Welcome", "outcome": "CR +8% · ARPU +17%" },
+    { "n": 2, "title": "Name the program from the ad on the paywall", "screen": "Paywall", "outcome": "CR +15–20%" },
+    { "n": 3, "title": "Ask for notifications and Apple Health after the trial starts", "screen": "Notifications", "outcome": "CR +10–15%" },
+    { "n": 4, "title": "Ask what they came for, and read it back while it loads", "screen": "Loader", "outcome": "CR +10–15%" },
+    { "n": 5, "title": "Put Editors’ Choice, 4.9 and a member’s words next to the plans", "screen": "Paywall", "outcome": "CR +10–15%" }
+  ]
+}
